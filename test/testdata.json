@@ -1,0 +1,14 @@
+{
+  "diagrams" : [
+    {
+      "id": "diagram-a",
+      "type": "diagram",
+      "name": "Diagram",
+      "diagramObjects": [
+        {"id": "node-a", "type": "node", "name": "Node A", "modelObject": {"id": "entity-a", "type": "entity", "attributes": {"name": "Entity A"}}},
+        {"id": "node-b", "type": "node", "name": "Node B", "modelObject": {"id": "entity-b", "type": "entity", "attributes": {"name": "Entity A"}}},
+        {"id": "node-c", "type": "node", "name": "Node C", "modelObject": {"id": "entity-c", "type": "entity", "attributes": {"name": "Entity C"}}}
+      ]
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "diagramObjects": [
+    {
+      "id": "a9085ae278f96db6dbd5099231f795a0e7e37a60",
+      "modelObject": {
+        "attributes": {
+          "name": "Entity A"
+        },
+        "id": "56a569c5ef3131c6ff79e6c00875b8857468e1f0",
+        "type": "entity"
+      },
+      "name": "Node A",
+      "type": "node"
+    },
+    {
+      "id": "fc1884a40978ffe4257aa4a8f77882e0192c1b0e",
+      "modelObject": {
+        "attributes": {
+          "name": "Entity A"
+        },
+        "id": "56a569c5ef3131c6ff79e6c00875b8857468e1f0",
+        "type": "entity"
+      },
+      "name": "Node B",
+      "type": "node"
+    },
+    {
+      "id": "610b8a4247b729fe1087e63d6ad55cd8b0ff7c10",
+      "modelObject": {
+        "attributes": {
+          "name": "Entity C"
+        },
+        "id": "187128aacc8eae9aa21da0e1217409b0ab263d38",
+        "type": "entity"
+      },
+      "name": "Node C",
+      "type": "node"
+    }
+  ],
+  "id": "170907b07ad69c22edb8e4f4016a940bd0ce3a0f",
+  "name": "Diagram",
+  "type": "diagram"
+}
